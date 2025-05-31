@@ -1,0 +1,14 @@
+# Requirements for Differential Equations Flashcard Game
+# This game uses only Python standard library modules
+
+# No external dependencies required!
+# The game uses the following built-in Python modules:
+# - tkinter (GUI framework - included with Python)
+# - random (for shuffling cards)
+# - math (imported but not currently used - available for future enhancements)
+
+# If you want to add additional features, you might consider:
+# matplotlib>=3.5.0  # For plotting differential equation solutions
+# numpy>=1.21.0      # For numerical methods and calculations
+# sympy>=1.9         # For symbolic mathematics and equation solving
+# pillow>=8.3.0      # For enhanced image support in tkinter
