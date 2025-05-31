@@ -19,7 +19,7 @@ class DifferentialEquationsGame:
         self.show_answer = False
         self.show_steps = False
         
-        # Card database with different difficulty levels - EXPANDED!
+        # Card database with different difficulty levels 
         self.cards = {
             'Basic': [
                 {
